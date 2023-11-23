@@ -8,10 +8,7 @@
 </head>
 <body>
 
- jsppro project(수정)
- jsppro project(수정)
- jsppro project(수정)
- jsppro project(수정)
+user1.jsp 파일
 
 </body>
 </html>
